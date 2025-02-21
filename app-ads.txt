@@ -1,4 +1,4 @@
-# Updated at 2025/01/03 18:01:56
+# Updated at 2025/02/21 18:39:51
 
 # Admob
 google.com,pub-4231262271105435,DIRECT,f08c47fec0942fa0
@@ -314,3 +314,6 @@ sharethrough.com,6qlnf8SY,RESELLER,d53b998a7bd4ecd2
 smartadserver.com,4625,RESELLER,060d053dcf45cbf3
 triplelift.com,12158,RESELLER,6c33edb13117fd86
 xandr.com,13799,RESELLER
+
+# Facebook
+facebook.com,2403290579831579,DIRECT,c3e20eee3f780d68
