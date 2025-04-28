@@ -1,4 +1,4 @@
-# Updated at 2025/02/21 18:39:51
+# Updated at 2025/04/28 16:24:59
 
 # Admob
 google.com,pub-4231262271105435,DIRECT,f08c47fec0942fa0
@@ -317,3 +317,6 @@ xandr.com,13799,RESELLER
 
 # Facebook
 facebook.com,2403290579831579,DIRECT,c3e20eee3f780d68
+
+# Admob
+google.com,pub-5454612519344873,DIRECT,f08c47fec0942fa0
